@@ -1,0 +1,25 @@
+---
+title: "Human Cognition and Figure Design"
+output: pdf_document
+bibliography: visualization.bib
+csl: american-geophysical-union.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Human (Visual) Memory: A Brief Introduction
+
+There are several types of human memory. The most important for understanding how visual representations are processed and retained are:
+
+* **Sensory Memory**: Sensory memory is the brain's retention of signals from sensory organs. This memory lasts for a very short period of time (~500 ms or less). Processing sensory signals, commonly called "pre-attentive processing,"^[There is some controversy about the use of "pre-attentive processing" and its relationship to "attentive processing" [@Wolfe2003-du]. A perhaps better terminology is "vision at a glance" and "vision with scrutiny," which more explicitly suggests the potential for feedbacks between higher- and lower-level vision and cognitive processes [@Hochstein2002-rv]. However, we use "pre-attentive" and "attentive" here, as they are common in the data visualization literature.] is highly parallelized [@Treisman1980-lj, Pylyshyn1988-il] and requires little cognitive load [@Treisman1980-lj]. 
+* **Short-Term Memory**: Short-term memory is more complex; 
+
+
+![Rough overview of the levels of human memory and associated processing types. Despite the simplified representation, this is not a one-way street, as the brain can switch from attentive processing to pre-attentive processing after selecting a subset of input for additional search [@Hochstein2002-rv; @Di_Lollo2001-pi].](memory.png)
+
+
+
+# References
+
