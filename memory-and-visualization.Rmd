@@ -2,7 +2,7 @@
 title: "Human Cognition and Figure Design"
 output: pdf_document
 bibliography: visualization.bib
-csl: american-geophysical-union.csl
+csl: csl/styles/american-geophysical-union.csl
 ---
 
 ```{r setup, include=FALSE}
